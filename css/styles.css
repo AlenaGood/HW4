@@ -1,0 +1,119 @@
+html, body{
+margin: 0;
+padding: 0;
+}
+
+.wrapper{
+	max-width: 1024px;
+	margin: 0 auto;
+	height: inherit;
+	overflow: hidden;
+	 display: flex;
+    justify-content: space-between;
+}
+
+.header{
+	background: #fc493d;
+	height: 100px;
+}
+
+.header {
+
+}
+.asingle{
+border:1px solid;
+width:200px;
+}
+
+.wrapper3 {
+	margin-top:0px;
+}
+
+
+.left{
+	width: 50px;
+}
+ 
+.right{
+	width: 600px;
+	margin: 0 auto;
+}
+
+.header li{
+	display: inline;
+	color: #fff;
+	float: right;
+	margin-right: 20px;
+
+
+}
+
+.header li a{
+	color: inherit;
+	text-decoration: none;
+	font-size: 20px;
+	padding-right: 15px;
+}
+
+.welcome{
+	background: #fc3728;
+	height: 150px;
+
+}
+
+.welcome h1{
+	color: #fff;
+	text-align: center;
+	letter-spacing: 15px;
+}
+
+.welcome p{
+	color: #fff;
+	text-align: center;
+	letter-spacing: 3px;
+}
+
+.smart{
+	background: #211d1d;
+	height: 280px;
+}
+
+.smart h2{
+	color: #fff;
+	text-align: center;
+	letter-spacing: 13px;
+}
+
+.smart p{
+	color: #fc3728;
+	text-align: center;
+	letter-spacing: 3px;
+}
+
+.talented{
+	background: #42853c;
+	height: 500px;
+}
+
+.talented h2{
+	color: #fff;
+	text-align: center;
+	letter-spacing: 10px;
+}
+
+.talented p{
+	text-align: center;
+}
+
+.footer{
+	background: #211d1d;
+	height: 50px;
+}
+
+.footer p{
+	color: #fff;
+}
+
+.footer p span{
+	color: #fc3728;
+}
